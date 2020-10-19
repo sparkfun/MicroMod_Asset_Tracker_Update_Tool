@@ -1,4 +1,4 @@
-# MicroMod_Asset_Tracker_Update_Tool
+# MicroMod Asset Tracker Firmware Update Tool
 
 A dummy Processor Board which will simplify firmware updates for the SARA-R5 on the Asset Tracker Carrier Board.
 
@@ -14,4 +14,3 @@ Power for the SARA can be enabled via a push-button on the carrier board.
 
 - **/Hardware** - Eagle PCB, SCH and LBR design files
 - **LICENSE.md** contains the licence information
-
