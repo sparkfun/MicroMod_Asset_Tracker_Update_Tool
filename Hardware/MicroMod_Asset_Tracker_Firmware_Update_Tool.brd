@@ -3380,6 +3380,8 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <element name="U$4" library="output" package="#DTR#0" value="" x="12.3825" y="12.5095" smashed="yes" rot="MR90"/>
 <element name="U$5" library="output" package="#RI#0" value="" x="7.3025" y="11.8745" smashed="yes" rot="MR90"/>
 <element name="LOGO2" library="SparkFun-Aesthetics" package="ORDERING_INSTRUCTIONS" value="SPECIAL_INSTRUCTIONS-ORDERING" x="27.94" y="44.45" smashed="yes"/>
+<element name="U$6" library="output" package="#3V3#3" value="" x="18.502" y="18.1885" smashed="yes" rot="MR90"/>
+<element name="U$7" library="output" package="#GND#2" value="" x="9.04" y="21.272" smashed="yes" rot="MR0"/>
 </elements>
 <signals>
 <signal name="GND" class="1">
@@ -3429,6 +3431,7 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <via x="19.05" y="11.684" extent="1-16" drill="0.3"/>
 <via x="6.0325" y="5.3975" extent="1-16" drill="0.3"/>
 <via x="8.636" y="5.3975" extent="1-16" drill="0.3"/>
+<via x="18.542" y="4.5085" extent="1-16" drill="0.3"/>
 </signal>
 <signal name="3.3V" class="1">
 <contactref element="U2" pad="16"/>
@@ -3635,13 +3638,13 @@ These rules have been curated by SparkFuns DFM commitee. After doing much resear
 <contactref element="CTS" pad="4"/>
 <wire x1="16.77" y1="1.265" x2="16.77" y2="2.6095" width="0.254" layer="1"/>
 <wire x1="16.77" y1="2.6095" x2="17.5895" y2="3.429" width="0.254" layer="1"/>
-<wire x1="4.8792" y1="4.2648" x2="4.826" y2="4.318" width="0.254" layer="1"/>
-<via x="4.826" y="4.318" extent="1-16" drill="0.3"/>
-<wire x1="4.826" y1="4.318" x2="4.826" y2="4.324" width="0.254" layer="16"/>
-<wire x1="4.826" y1="4.324" x2="2.2225" y2="6.9275" width="0.254" layer="16"/>
+<wire x1="5.5142" y1="4.2648" x2="5.461" y2="4.318" width="0.254" layer="1"/>
+<via x="5.461" y="4.318" extent="1-16" drill="0.3"/>
+<wire x1="5.461" y1="4.318" x2="4.832" y2="4.318" width="0.254" layer="16"/>
+<wire x1="4.832" y1="4.318" x2="2.2225" y2="6.9275" width="0.254" layer="16"/>
 <wire x1="17.5895" y1="3.429" x2="17.5895" y2="3.937" width="0.254" layer="1"/>
 <wire x1="17.5895" y1="3.937" x2="17.2617" y2="4.2648" width="0.254" layer="1"/>
-<wire x1="17.2617" y1="4.2648" x2="4.8792" y2="4.2648" width="0.254" layer="1"/>
+<wire x1="17.2617" y1="4.2648" x2="5.5142" y2="4.2648" width="0.254" layer="1"/>
 <wire x1="2.2225" y1="6.9275" x2="2.2225" y2="7.6895" width="0.254" layer="16"/>
 </signal>
 <signal name="SARA_DTR_I">
