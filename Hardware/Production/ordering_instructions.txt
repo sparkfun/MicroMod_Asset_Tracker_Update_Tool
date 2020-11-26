@@ -1,10 +1,10 @@
 panel size, 194x70mm
 PCB thickness, 0.8mm
 number of layers, 2
-soldermask color, Black
+soldermask color, Red
 silkscreen color, White
 oz copper, 1oz
-finish, HASL lead free
+finish, ENIG
 stencils, top
 pcs per panel, 16
 min trace width, 0.2540mm / 0.0100in
