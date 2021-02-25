@@ -5,7 +5,7 @@
 
 [*SparkFun MicroMod Update Tool (DEV-17725)*](https://www.sparkfun.com/products/17725)
 
-A dummy Processor Board which will simplify firmware updates for the SARA-R5 on the Asset Tracker Carrier Board.
+A dummy Processor Board which will simplify firmware updates for the SARA-R5 on the [MicroMod Asset Tracker Carrier Board](https://www.sparkfun.com/products/17272).
 
 The board carries a CH340C USB-Serial converter to act as the bridge between the USB-C interface on the carrier board and the 8-wire UART interface on the SARA-R5.
 
